@@ -1,0 +1,9 @@
+terraform fmt -> format .tf file
+
+terraform init -> Intialization
+
+terraform plan -> see the plan to be implemented
+
+terraform apply
+
+terraform destroy
