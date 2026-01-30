@@ -4,6 +4,6 @@ terraform init -> Intialization
 
 terraform plan -> see the plan to be implemented
 
-terraform apply
+terraform apply -> apply and run the plan shown
 
-terraform destroy
+terraform destroy -> destroy the terraform service
